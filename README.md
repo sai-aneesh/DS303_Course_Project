@@ -8,6 +8,6 @@ Guide : Prof. Biplab Banerjee
 | Name        | Roll No.          |
 | ------------- |:-------------:| 
 |SAI ANEESH SURYADEVARA     | 190100125 |
-|RONGALI SAI BHARGAV        | 190100102 |
-|PRASANNA TELAWNE           | 18B030018 |
+|ADITYA PANWAR              | 203386003 |
+|PRASANNA TELAWNE           |18B030018  |
 |NAMAN GUPTA                | 190010048 |
